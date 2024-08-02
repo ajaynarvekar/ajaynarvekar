@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajaynarvekar, 
-- 💼 Working in data space, currently as a data engineer, but apiring to work as a data architect real soon!
+- 💼 Working in data space, currently as a data architect at the Bank of England
 - 💞️ I’m looking to collaborate on open source projects that are aimed to solve real world data problems.
 - 📈 Talk to me about: 
 -       Relational Databases (SQL Server, PostgreSQL, Oracle), Big Data, Hadoop, Hive
