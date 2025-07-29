@@ -4,12 +4,12 @@
 - 📈 Talk to me about: 
 -       Relational Databases (SQL Server, PostgreSQL, Oracle), Big Data, Hadoop, Hive
 -       Business Intelligence Suit (MSBI)
--       ETL (SSIS, Azure Data Factory, Ab Initio)
--       Reporting Tools (SSRS, PowerBI)
+-       ETL (SSIS, Azure Data Factory, Azure Synapse Analytics, Ab Initio, Spark)
+-       Reporting Tools (SSRS, PowerBI, Tableau)
 -       OLAP (SSAS)
 -       Programming (C#, Python)
 -       Data Modelling - Dimensional (Star, Snowflake), Data Vault
--       Datawarehouses, Data Lakes
+-       Datawarehouses, Data Lakes, Delta Lakes
 -       Data Platforms in Cloud (Azure, AWS)
 - 📫 Reach me at narvekarajay@outlook.com
 
