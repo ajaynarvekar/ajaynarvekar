@@ -11,7 +11,7 @@
 -       Data Modelling - Dimensional (Star, Snowflake), Data Vault
 -       Datawarehouses, Data Lakes, Delta Lakes
 -       Data Platforms in Cloud (Azure, AWS)
-- 📫 Reach me at narvekarajay@outlook.com
+- 📫 Reach me at ajay_narvekar@outlook.com
 
 <!---
 ajaynarvekar/ajaynarvekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
